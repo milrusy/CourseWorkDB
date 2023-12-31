@@ -1,0 +1,88 @@
+id,name,speciality
+1,Computer Science,1
+2,Software Engineering,1
+3,Data Science,1
+4,Civil Engineering,2
+5,Structural Engineering,2
+6,Transportation Engineering,2
+7,Chemical Engineering,3
+8,Process Engineering,3
+9,Materials Engineering,3
+10,Biomedical Engineering,4
+11,Medical Devices Engineering,4
+12,Biomechanics,4
+13,Aerospace Engineering,5
+14,Aircraft Design,5
+15,Astrodynamics,5
+16,Environmental Science,6
+17,Environmental Management,6
+18,Climate Science,6
+19,Robotics,7
+20,Robotic Systems Control,7
+21,Human-Robot Interaction,7
+22,Cybersecurity,8
+23,Network Security,8
+24,Cyber Threat Intelligence,8
+25,Biotechnology,9
+26,Genetic Engineering,9
+27,Bioprocess Engineering,9
+28,Materials Science,10
+29,Nanomaterials,10
+30,Polymer Science,10
+31,Telecommunications,11
+32,Wireless Communication,11
+33,Network Design,11
+34,Urban Planning,12
+35,Urban Design,12
+36,Sustainable City Planning,12
+37,Software Engineering,13
+38,Web Development,13
+39,Mobile App Development,13
+40,Psychology,14
+41,Clinical Psychology,14
+42,Counseling Psychology,14
+43,Sociology,15
+44,Social Research,15
+45,Criminology,15
+46,Political Science,16
+47,International Politics,16
+48,Public Policy,16
+49,International Relations,17
+50,Diplomacy,17
+51,Global Studies,17
+52,Journalism,18
+53,Broadcast Journalism,18
+54,Digital Journalism,18
+55,Music Arts,19
+56,Music Production,19
+57,Music Composition,19
+58,History and Archaeology,20
+59,Ancient History,20
+60,Archaeological Research,20
+61,Philosophy,21
+62,Ethics,21
+63,Political Philosophy,21
+64,Philology,22
+65,Comparative Literature,22
+66,Linguistics,22
+67,Theology,23
+68,Religious Studies,23
+69,Interfaith Dialogue,23
+70,Economics,24
+71,Microeconomics,24
+72,Macroeconomics,24
+73,Law,25
+74,Criminal Law,25
+75,International Law,25
+76,Hydropower Engineering,26
+77,Hydraulic Structures Design,26
+78,Hydroelectric Plant Management,26
+79,Medicine,27
+80,Surgery,27
+81,Internal Medicine,27
+82,Tourism,28
+83,Hospitality Management,28
+84,Tourism Marketing,28
+85,Applied Mathematics,29
+86,Computational Mathematics,29
+87,Mathematical Modeling,29
